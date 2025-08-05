@@ -22,7 +22,7 @@ Este repositório contém um exemplo de como implementar o login com Google usan
 1. Clone este repositório ou baixe o código fonte.
 
 ```
-git clone 
+git clone https://github.com/luangaldinodev/login-google-php.git
 ```
 
 2. Tenha o composer instalado.
